@@ -1,4 +1,5 @@
 # Trabalho
+
 Este é um projeto simples em HTML criado como teste para aprendizado de Markdown e organização de projeto.
 
 # Funcionalidade
